@@ -1,6 +1,6 @@
 # Joystick
 
-Emulate a joystick on a canvas. 
+Joystick component - Emulate a joystick on a canvas. 
 
 ## Installation
 

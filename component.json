@@ -1,7 +1,7 @@
 {
 	"name": "Joystick",
 	"repo": "garrows/joystick",
-	"description": "Emulated joystick on a canvas.",
+	"description": "Joystick component - Emulate a joystick on a canvas. ",
 	"version": "0.0.1",
 	"main": "index.js",
 	"scripts": [
