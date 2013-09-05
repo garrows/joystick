@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/glen/Dropbox/Experiments/robotics/chromebot"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/glen/Dropbox/Experiments/components/joystick"
+		}
+	]
+}

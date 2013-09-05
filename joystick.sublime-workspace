@@ -1,0 +1,671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valu",
+				"valueCamY"
+			],
+			[
+				"valueCa",
+				"valueCamY"
+			],
+			[
+				"ro",
+				"robotNameElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"hip",
+				"hip_left"
+			],
+			[
+				"servo",
+				"servo_geometry"
+			],
+			[
+				"clust",
+				"clusterSize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "demo/demo.html",
+			"settings":
+			{
+				"buffer_size": 975,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 5778,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/glen/.config/sublime-text-3/Packages/User/joystickBuild.sublime-build",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		},
+		{
+			"file": "/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/main-old.js",
+			"settings":
+			{
+				"buffer_size": 8387,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/joystickBuild.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pak in",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pak inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 545.0
+	},
+	"console":
+	{
+		"height": 230.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/glen/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/glen/Dropbox/Experiments/components/joystick/build.sublime-build",
+		"/home/glen/.config/sublime-text-3/Packages/User/joystickBuild.sublime-build",
+		"/home/glen/Dropbox/Experiments/components/joystick/component.json",
+		"/home/glen/Downloads/angular.min.js",
+		"/home/glen/Dropbox/Experiments/components/joystick/npm-debug.log",
+		"/home/glen/Dropbox/Experiments/components/joystick/demo/demo.css",
+		"/home/glen/Dropbox/Experiments/components/joystick/Makefile",
+		"/home/glen/Dropbox/Experiments/components/joystick/demo/demo.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/services/mainService.js",
+		"/home/glen/Dropbox/Experiments/components/joystick/Readme.md",
+		"/home/glen/.config/sublime-text-2/Packages/Theme - Default/Default.sublime-theme",
+		"/home/glen/Dropbox/Experiments/components/joystick/index.js",
+		"/home/glen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/glen/Dropbox/Experiments/components/joystick/demo/server.js",
+		"/home/glen/Dropbox/Experiments/components/joystick/package.json",
+		"/home/glen/Dropbox/Experiments/components/joystick/demo/sgJoystick.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/Makefile",
+		"/home/glen/Dropbox/Experiments/components/joystick/demo/package.json",
+		"/home/glen/Dropbox/Experiments/html5/cannonjs/fileserver.js",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/app.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/robotInput.json",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/index.html",
+		"/home/glen/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/main.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/robotCtrl.js",
+		"/home/glen/camp.js/chatter/public/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/main.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/dataChannel.js",
+		"/home/glen/camp.js/chatter/public/angularApp.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/directionalPad.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/background.js",
+		"/home/glen/camp.js/campjs-demo/campjs-demo/app.js",
+		"/home/glen/camp.js/angular-campjs/app.js",
+		"/home/glen/camp.js/chatter/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/main2.js",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/stylesheets/style.css",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/index.html",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/scripts/main.js",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/scripts/uiHandler.js",
+		"/home/glen/Dropbox/Experiments/html5/FileAPI/index.html",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/style.css",
+		"/home/glen/Dropbox/Experiments/html5/p2pFileshare/public/scripts/FileSaver.js",
+		"/home/glen/camp.js/campjs-demo/campjs-demo/github-browser/app/components/es5-shim/.gitignore",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/stylesheets/styles.css",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention.crx",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/server/app.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/socketHandler.js",
+		"/home/glen/Dropbox/Experiments/html5/cannonjs/cannon.js/.gitignore",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/.gitignore",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/firefox.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/manifest.webapp",
+		"/home/glen/camp.js/campjs-demo/campjs-demo/index.html",
+		"/home/glen/camp.js/chatter/app.js",
+		"/home/glen/Dropbox/Experiments/robotics/RoughBot/public/script.js",
+		"/home/glen/Dropbox/Experiments/robotics/RoughBot/public/style.css",
+		"/home/glen/Dropbox/Experiments/robotics/RoughBot/public/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/peer.min.js",
+		"/home/glen/camp.js/chatter/public/styles.css",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/arduino/firmware/firmware.ino",
+		"/home/glen/camp.js/campjs-demo/campjs-demo/fileserver.js",
+		"/home/glen/Dropbox/Experiments/chrome/kinect/kinect.js",
+		"/media/glen/A4A6-8874/package.json",
+		"/media/glen/A4A6-8874/app.js",
+		"/media/glen/A4A6-8874/scripts/main.js",
+		"/media/glen/A4A6-8874/main.html",
+		"/media/glen/A4A6-8874/scripts/dataChannel.js",
+		"/media/glen/A4A6-8874/scripts/background.js",
+		"/home/glen/Downloads/libfreenect-master/src/cameras.c",
+		"/home/glen/Downloads/OpenNI-master/Source/OpenNI/Documentation.txt",
+		"/home/glen/Downloads/OpenNI-master/GPL.txt",
+		"/home/glen/camp.js/chatter/public/ocket.io.local.js",
+		"/home/glen/Dropbox/Experiments/robotics/RoughBot/robot.js",
+		"/home/glen/camp.js/robots/robot.js",
+		"/home/glen/camp.js/angular-campjs/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/RoughBot/WalkTest.js",
+		"/home/glen/camp.js/chatter/public/socket.io.local.js",
+		"/home/glen/camp.js/chatter/manifest.webapp",
+		"/home/glen/Dropbox/Experiments/robotics/old/Python/server/game/scripts/crap/node_modules/socket.io-client/support/test-runner/app.js",
+		"/home/glen/Dropbox/Experiments/node/websockets/socketio/sioserver.js",
+		"/home/glen/camp.js/angular-campjs/public/index.html",
+		"/home/glen/camp.js/angular-campjs/styles.css",
+		"/home/glen/camp.js/angular-campjs/pure-min.css",
+		"/home/glen/camp.js/index.html",
+		"/home/glen/camp.js/mozilla/index.html",
+		"/home/glen/camp.js/app.js",
+		"/home/glen/camp.js/angular-campjs/angular.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/server/package.json",
+		"/home/glen/Dropbox/Experiments/chrome/kinect/lsusb.txt",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Video/public/index.html",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Video/package.json",
+		"/home/glen/Dropbox/Experiments/chrome/kinect/manifest.json",
+		"/home/glen/Downloads/test.py",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Video/app.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/main2.html",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Video/index.html",
+		"/media/glen/Macintosh HD/EFI/refind/refind.conf",
+		"/home/glen/Dropbox/Experiments/chrome/kinect/knob.js",
+		"/home/glen/Downloads/OpenNI-master/Include/Win32/usb100.h",
+		"/home/glen/Downloads/OpenNI-master/Platform/Android/jni/External/libusb-1.0.8/examples/dpfp_threaded.c",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Peer/public/scripts/main.js",
+		"/home/glen/Dropbox/Experiments/html5/WebRTC Peer/app.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/webrtc.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/manifest.json",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/gamepad.js",
+		"/home/glen/Downloads/chrome-app-samples-master/usb-label-printer/index.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/stylesheets/webrtc.css",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/scripts/main.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/module/package.json",
+		"/home/glen/Downloads/chrome-app-samples-master/parrot-ar-drone/lib/Gamepad.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/scripts/gamepad.js",
+		"/home/glen/Dropbox/Experiments/chrome/servo/gamepad.js",
+		"/home/glen/Downloads/chrome-app-samples-master/parrot-ar-drone/third-party/gamepad.js",
+		"/home/glen/Downloads/chrome-app-samples-master/parrot-ar-drone/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/arduino/firmware.ino",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/manifest.json",
+		"/home/glen/Dropbox/Experiments/chrome/servo/servo.js",
+		"/home/glen/Dropbox/Experiments/chrome/servo/main.html",
+		"/home/glen/Dropbox/Experiments/chrome/servo/styles.css",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/scripts/background.js",
+		"/home/glen/Dropbox/Experiments/chrome/servo/modernizr.custom.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/main.html",
+		"/home/glen/Dropbox/Documents/Thoughts/Robot.txt",
+		"/home/glen/Dropbox/Experiments/chrome/servo/Servo/Servo.ino",
+		"/home/glen/Dropbox/Experiments/html5/cannonjs/index.html",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/extention/extention/scripts/popup.js",
+		"/home/glen/Dropbox/Experiments/robotics/chromebot/arduino/withoutLibrary/withoutLibrary.ino",
+		"/home/glen/Dropbox/Experiments/robotics/old/Creeper/MotorStopperTest/CreeperTest_pde/CreeperTest_pde.pde"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			"/home/glen/Dropbox/Experiments/components/joystick",
+			"/home/glen/Dropbox/Experiments/robotics/chromebot",
+			"<project>",
+			"/home/glen/Dropbox/Experiments/robotics/chromebot/extention",
+			"/home/glen/Downloads/libfreenect-master",
+			"/home/glen/Downloads/node-openni-master",
+			"/home/glen/Dropbox/Experiments/",
+			"/home/glen/Downloads/OpenNI-master",
+			"/home/glen/Downloads/chrome-app-samples-master/parrot-ar-drone",
+			"/home/glen/Downloads/chrome-app-samples-master/parrot-ar-drone/lib",
+			"/home/glen/Dropbox/Experiments/robotics",
+			"/home/glen/Dropbox/Robotitcs",
+			"/home/glen/Dropbox/Robotics",
+			"/home/glen/Dropbox/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"canvasClicked",
+			"compassClicked",
+			"this.compass",
+			"convertJoystickToMotors",
+			"Compass",
+			"compass",
+			"mouseDown",
+			"touchHandler",
+			"coords",
+			"ctx",
+			"canvas",
+			"tab_",
+			"joystick",
+			"dom",
+			"sgJoystick",
+			"sg-upload-to-s3",
+			"prototype",
+			"robot",
+			"DOMContentLoaded",
+			"addevent",
+			"domloaded",
+			"domlo",
+			"\"\"\"",
+			":",
+			"{\n",
+			"convert",
+			"position-input-middle",
+			"x.",
+			"convertJoystickToMotors",
+			"Controls",
+			"data",
+			"	log",
+			"	log(",
+			"drawCompass",
+			"left",
+			"compassClicked",
+			"drawCompass",
+			"col",
+			"hoverOver",
+			"send( {",
+			".send",
+			"readAsBinaryString",
+			"evt",
+			"handleFileSelect",
+			"reader",
+			"send",
+			"errorHandler",
+			"window.",
+			"left",
+			"drawcompas",
+			"setWheels",
+			"x",
+			"getElementById",
+			"orientation",
+			"display-area",
+			"Controller",
+			"\n    ",
+			"sendUpdate",
+			"compass",
+			"compassClicked",
+			"forceClick",
+			"compassClicked",
+			"touchHandler",
+			"compassClicked",
+			"Y,",
+			"y,",
+			"screenY",
+			"retur",
+			"screenX",
+			"-webkit-transform",
+			"-webkit",
+			"-webkit-appearance:none !important;",
+			"webkit",
+			"speed",
+			"8080",
+			"sendUpdate",
+			"setWheels",
+			"connectedStatus",
+			"document",
+			"compassClicked",
+			"drawCompass",
+			"changed",
+			"style[\"background-color\"]",
+			"background",
+			"margin",
+			"\n    ",
+			"margin: 20px auto;\n",
+			"margin: 20px auto;",
+			"background-color",
+			"document.getElementById('connectedStatus').style.background-color",
+			"connected(",
+			"closed",
+			"round",
+			"if (chrome",
+			"chrome",
+			"60/60",
+			"/",
+			"sendUpdate",
+			"0x105",
+			"kinectLedTransferInfo",
+			"requestButton",
+			"kinectLedTransferInfo",
+			"camX",
+			"0x1281",
+			"scope",
+			"latitude",
+			"johnny",
+			"io.js\"",
+			"socket.io",
+			"/public",
+			"static",
+			"camX",
+			"valueVertical",
+			"valueRight",
+			"valueLeft",
+			"resetPin",
+			"45deg",
+			"slider",
+			");",
+			"{ request",
+			"initCommands.push(",
+			"kinectAccelerometerTransferInfo",
+			"kinectAcelerometerTransferInfo",
+			"isochr",
+			"KINECT_MOTOR_DEVICE_INFO",
+			"onKinectRangeEvent",
+			"DEPTH_",
+			"setWheels"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	console.log",
+			"document.getElementById('connectedStatus').style[\"background-color\"]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "demo/demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								867,
+								867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3494,
+								3494
+							],
+							[
+								3995,
+								3995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 96.0,
+						"translation.y": 2943.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/glen/.config/sublime-text-3/Packages/User/joystickBuild.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/glen/Dropbox/Experiments/robotics/chromebot/extention/scripts/main-old.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4381,
+								4381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2784.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"project": "joystick.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"make",
+				"chromebot/Makefile"
+			],
+			[
+				"gitngnore",
+				"camp.js/campjs-demo/campjs-demo/github-browser/app/components/es5-shim/.gitignore"
+			],
+			[
+				"gitigno",
+				"cannonjs/cannon.js/.gitignore"
+			],
+			[
+				"fileserver",
+				"cannonjs/fileserver.js"
+			],
+			[
+				"main",
+				"servo/main.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/everything.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test sg-joystick</title>
+
+	<link rel="stylesheet" href="bootstrap.min.css">
+	<link rel="stylesheet" href="demo.css">
+
+	<script src="../build/build.js"></script>
+	<script src="joystick.js"></script>
+
+</head>
+<body>
+
+	<div class="container">
+		
+		<div class="page-header">
+			
+			<h1>Joystick Demo</h1>
+			
+			<canvas id="joystickCanvas" width="200" height="200"></canvas>
+
+			<div class="form-inline" role="form">
+				<div class="form-group">
+					<label for="output-x">X:</label>
+					<input id="output-x" type="textbox" class="form-control"></input>
+				</div>
+				<div class="form-group">
+					<label for="output-y">Y:</label>
+					<input id="output-y" type="textbox" class="form-control"></input>
+				</div>
+
+				<button id="submitXy" class="btn btn-default">Set</button>
+			</div>
+
+			<div class="form-inline" role="form">			
+				<div class="form-group">
+					<label for="output-left">Left:</label>
+					<input id="output-left" type="textbox" class="form-control"></input>
+				</div>
+
+				<div class="form-group">
+					<label for="output-right">Right:</label>
+					<input id="output-right" type="textbox" class="form-control"></input>
+				</div>
+
+			</div>
+
+		</div>		
+
+	</div>
+
+	<script>
+
+		var domready = require('domready')
+		,	dom = require('dom')
+		
+		domready(function() {
+			var canvas = dom("#joystickCanvas").els[0];
+			
+			var joystick = new Joystick(canvas, function(value) {
+				dom("#output-x").els[0].value = value.x;
+				dom("#output-y").els[0].value = value.y;
+				dom("#output-left").els[0].value = value.left;
+				dom("#output-right").els[0].value = value.right;
+				console.log(value);
+			});
+
+			dom("#submitXy").on("click", function() {
+				joystick.setValue({
+					x: dom("#output-x").els[0].value,
+					y: dom("#output-y").els[0].value
+				});
+			});
+
+		}) 
+
+
+	</script>
+	
+</body>
+</html>
